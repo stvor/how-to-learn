@@ -75,11 +75,11 @@
 .description {
   display: flex;
   justify-content: center;
+  margin: 100px 0;
 }
 
 .two-columns {
   width: 80%;
-  margin: 100px 0;
   display: flex;
   justify-content: space-between;
 }
