@@ -27,6 +27,9 @@
 }
 
 .logo_place_header {
+  background-image: url("../images/logo_place_header.svg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
   position: absolute;
   top: 30px;
   left: 64px;
@@ -255,4 +258,12 @@
   color: white;
   margin-right: 0;
   margin-top: 80px;
+}
+
+.logo_place_footer {
+  background-image: url("../images/logo_place_footer.svg");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+  width: 183px;
+  height: 35px;
 }
