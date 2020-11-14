@@ -165,7 +165,7 @@ a:link {
 
 .table__cell {
   width: 250px;
-  margin-top: 60px;
+  margin-top: 80px;
 }
 
 .table__heading {
@@ -204,8 +204,8 @@ a:link {
 }
 
 .feynman__subtitle {
-  margin: 0 auto;
-  padding-top: 70px;
+  margin: 0;
+  margin-top: 70px;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
