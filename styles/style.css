@@ -28,13 +28,13 @@ a:link {
 .logo {
   width: 183px;
   height: 32px;
-}
-
-.logo_place_header {
   background-image: url("../images/logo_place_header.svg");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: cover;
+}
+
+.logo_place_header {
   position: absolute;
   top: 30px;
   left: 64px;
