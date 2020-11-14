@@ -42,8 +42,9 @@ a:link {
 }
 
 .header__title {
-  width: 730px;
+  margin: 0;
   margin-left: 64px;
+  width: 730px;
   z-index: 10;
   line-height: 96px;
   font-size: 102px;
@@ -51,6 +52,7 @@ a:link {
 }
 
 .header__subtitle {
+  margin: 0;
   width: 388px;
   position: absolute;
   bottom: 30px;
@@ -94,7 +96,6 @@ a:link {
 
 .two-columns__brief {
   margin: 0;
-  padding: 0;
   width: 175px;
   line-height: 1.2;
   font-size: 18px;
@@ -109,7 +110,6 @@ a:link {
 
 .two-columns__paragraph {
   margin: 0;
-  padding: 0;
   margin-bottom: 30px;
   line-height: 34px;
   font-size: 24px;
@@ -135,7 +135,6 @@ a:link {
 
 .section-title {
   margin: 0;
-  padding: 0;
   margin-bottom: 20px;
   width: 60%;
   text-align: center;
@@ -146,7 +145,6 @@ a:link {
 
 .section-subtitle {
   margin: 0;
-  padding: 0;
   width: 60%;
   text-align: center;
   line-height: 34px;
@@ -172,7 +170,6 @@ a:link {
 
 .table__heading {
   margin: 0;
-  padding: 0;
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
@@ -180,7 +177,6 @@ a:link {
 
 .table__text {
   margin: 0;
-  padding: 0;
   margin-top: 20px;
   line-height: 1.2;
   font-size: 18px;
@@ -199,7 +195,6 @@ a:link {
 
 .feynman__title {
   margin: 0 auto;
-  padding: 0;
   width: 648px;
   padding-top: 100px;
   line-height: 1.15;
@@ -210,8 +205,7 @@ a:link {
 
 .feynman__subtitle {
   margin: 0 auto;
-  padding: 0;
-  margin-top: 70px;
+  padding-top: 70px;
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
@@ -295,7 +289,9 @@ a:link {
 }
 
 .footer__author {
-  margin: 18px 0;
+  margin: 0;
+  margin-top: 18px;
+  margin-bottom: 18px;
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
@@ -309,9 +305,11 @@ a:link {
 }
 
 .footer__column-links {
-  list-style: none;
+  margin: 0;
   padding: 0;
-  margin: 20px 0 16px;
+  list-style: none;
+  margin-top: 20px;
+  margin-bottom: 16px;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
