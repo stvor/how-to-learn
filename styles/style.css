@@ -30,6 +30,7 @@
   background-image: url("../images/logo_place_header.svg");
   background-repeat: no-repeat;
   background-position: 0 0;
+  background-size: cover;
   position: absolute;
   top: 30px;
   left: 64px;
