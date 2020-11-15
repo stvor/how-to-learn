@@ -28,7 +28,6 @@
 
 .logo {
   width: 183px;
-  height: 32px;
   background-image: url("../images/logo_place_header.svg");
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -39,6 +38,7 @@
   position: absolute;
   top: 30px;
   left: 64px;
+  height: 32px;
   z-index: 10;
 }
 
@@ -294,7 +294,6 @@
   background-repeat: no-repeat;
   background-position: 0 0;
   background-size: cover;
-  width: 183px;
   height: 35px;
 }
 
