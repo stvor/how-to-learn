@@ -25,6 +25,10 @@ a:link {
   align-items: center;
 }
 
+.header__link {
+  text-decoration: none;
+}
+
 .logo {
   width: 183px;
   height: 32px;
@@ -219,6 +223,7 @@ a:link {
   line-height: 51px;
   font-size: 36px;
   font-weight: normal;
+  text-decoration: none;
 }
 
 .kaufman {
@@ -318,6 +323,7 @@ a:link {
 .footer__column-link {
   display: flex;
   align-items: center;
+  text-decoration: none;
 }
 
 .footer__social-icon {
