@@ -1,5 +1,5 @@
 # Научиться учиться
-https://stvor.github.io/how-to-learn/index.html.
+https://stvor.github.io/how-to-learn/index.html
 
 Проект рассказывает, как учиться эффективно. Есть пара видео с конференций TED, советы учёных и научных журналистов.
 
